@@ -1,3 +1,5 @@
+// ATserpentus snifilius is a friendly snake who just likes to smell people who touch his horn. touch his horn and he will flick his tounge out at you. 
+
 #include <Adafruit_NeoPixel.h>
 #include <CapacitiveSensor.h>
 

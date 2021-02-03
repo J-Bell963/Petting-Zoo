@@ -1,3 +1,6 @@
+// ATcyclopus nocturnus is a cyclops who hides in his cave from the IRS, you can see his glowing blue eye blink when you look in the cave, but when you shine a light into his cave
+// he will close his eye and hide
+
 //Constants
 const int pResistor = A1; // Photoresistor pin
 const int ledPin=1;       // Led pin 

@@ -1,3 +1,6 @@
+// ATcanis pettus is an interactive dog who just wants to be pet. she will whine at you if you dont pet her, and will make a low, happy sound when petted. but if you pet aginst her 
+// fur, she will get angry
+
 // joystick variables
 int VRx = A2;
 int VRy = A3;
